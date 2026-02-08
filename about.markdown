@@ -1,18 +1,30 @@
 ---
 layout: page
-title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+<div class="hero-banner about-hero"></div>
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+# About Sylvumeris
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Sylvumeris was founded as a platform to contribute to scientific research through data-driven analysis. My current focus lies in the quantitative analysis and interpretation of existing experimental datasets, with the long-term goal of expanding into independent research and data generation.
 
+---
 
-[jekyll-organization]: https://github.com/jekyll
+<div class="about-section" markdown="1">
+
+<div class="about-photo">
+  <img src="/assets/img/cederik.png" alt="Cederik Krebs">
+</div>
+
+<div class="about-text" markdown="1">
+
+## Who I Am
+
+My name is **Cederik Krebs (B.Sc. Physics)**, a physicist with a strong background in data-driven research. I majored in biophysics in my bachelors degree and continue to work in interdisciplinary research while completing my master’s degree.
+
+</div>
+</div>
+
+---
+
