@@ -1,7 +1,30 @@
 ---
 layout: page
-title: About
-permalink: /about
+permalink: /about/
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. You can find everything you need to get started under documentation. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}).
+<div class="hero-banner about-hero"></div>
+
+# About Sylvumeris
+
+Sylvumeris was founded as a platform to contribute to scientific research through data-driven analysis. My current focus lies in the quantitative analysis and interpretation of existing experimental datasets, with the long-term goal of expanding into independent research and data generation.
+
+---
+
+<div class="about-section" markdown="1">
+
+<div class="about-photo">
+  <img src="/assets/img/cederik.png" alt="Cederik Krebs">
+</div>
+
+<div class="about-text" markdown="1">
+
+## Who I Am
+
+My name is **Cederik Krebs (B.Sc. Physics)**, a physicist with a strong background in data-driven research. I majored in biophysics in my bachelors degree and continue to work in interdisciplinary research while completing my master’s degree.
+
+</div>
+</div>
+
+---
+
